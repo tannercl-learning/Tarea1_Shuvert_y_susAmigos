@@ -1,0 +1,11 @@
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\bin\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.deps.json
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\bin\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.runtimeconfig.json
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\bin\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.runtimeconfig.dev.json
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\bin\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.dll
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\bin\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.pdb
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\obj\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.csprojAssemblyReference.cache
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\obj\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.csproj.CoreCompileInputs.cache
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\obj\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.AssemblyInfoInputs.cache
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\obj\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.AssemblyInfo.cs
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\obj\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.dll
+C:\Users\cmartel.ext\source\repos\ConsoleApp.ExistingDb\ConsoleApp.ExistingDb\obj\Debug\netcoreapp2.1\ConsoleApp.ExistingDb.pdb

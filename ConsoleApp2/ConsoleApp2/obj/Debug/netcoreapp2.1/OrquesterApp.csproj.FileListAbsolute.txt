@@ -1,0 +1,11 @@
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\OrquesterApp.csprojAssemblyReference.cache
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\OrquesterApp.csproj.CoreCompileInputs.cache
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\OrquesterApp.AssemblyInfoInputs.cache
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\OrquesterApp.AssemblyInfo.cs
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\OrquesterApp.deps.json
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\OrquesterApp.runtimeconfig.json
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\OrquesterApp.runtimeconfig.dev.json
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\OrquesterApp.dll
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\OrquesterApp.pdb
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\OrquesterApp.dll
+C:\Users\cgutierreza\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\OrquesterApp.pdb
